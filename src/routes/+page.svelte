@@ -35,28 +35,28 @@
 	const fontFaces = `
 @font-face {
 	font-family: 'Velvelyne';
-	src: url('/fonts/Velvelyne-Book.woff2') format('woff2');
+	src: url('${base}/fonts/Velvelyne-Book.woff2') format('woff2');
 	font-weight: 400;
 	font-display: block;
 }
 
 @font-face {
 	font-family: 'Velvelyne';
-	src: url('/fonts/Velvelyne-Regular.woff2') format('woff2');
+	src: url('${base}/fonts/Velvelyne-Regular.woff2') format('woff2');
 	font-weight: 500;
 	font-display: block;
 }
 
 @font-face {
 	font-family: 'Velvelyne';
-	src: url('/fonts/Velvelyne-Bold.woff2') format('woff2');
+	src: url('${base}/fonts/Velvelyne-Bold.woff2') format('woff2');
 	font-weight: 700;
 	font-display: block;
 }
 
 @font-face {
 	font-family: 'Departure Mono';
-	src: url('/fonts/DepartureMono-Regular.otf') format('opentype');
+	src: url('${base}/fonts/DepartureMono-Regular.otf') format('opentype');
 	font-weight: 400;
 	font-display: block;
 }
