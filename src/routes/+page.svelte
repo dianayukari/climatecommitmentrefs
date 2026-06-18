@@ -6,7 +6,7 @@
 		{
 			label: 'Dataset',
 			name: 'Hedge terms in real climate documents',
-			href: 'https://docs.google.com/spreadsheets/d/1AFHfCOzs6q1mjLbtNXjipWgUZDuRcx_39nen7BIJ0x8/edit?usp=sharing',
+			href: 'https://www.kaggle.com/datasets/dianayukari/dataset-hedge-terms',
 			note: 'The vocabulary the apparatus draws from. Each term logged with how often it appears in real climate policy and the sentences it appears in.'
 		},
 		{
